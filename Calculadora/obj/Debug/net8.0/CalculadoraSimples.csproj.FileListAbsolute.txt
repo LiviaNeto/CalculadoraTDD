@@ -1,0 +1,14 @@
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.exe
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.deps.json
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\bin\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.dll
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\refint\CalculadoraSimples.dll
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.pdb
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\livia\OneDrive\Documentos\Bootcamp\XP Inc. - Full Stack Developer\8.Testes Unitários com C#\Calculadora\Calculadora\obj\Debug\net8.0\ref\CalculadoraSimples.dll
